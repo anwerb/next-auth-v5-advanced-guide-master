@@ -1,0 +1,792 @@
+[
+    {
+        "id": "coles_muslie_almond",
+        "name": "Muesli (Almond)",
+        "nutrition_per_100g": {
+            "energy": 1560,
+            "protein": 12.3,
+            "fat": 9.9,
+            "saturated_fat": 2.8,
+            "carbohydrate": 51.7,
+            "sugars": 19.7,
+            "dietary_fibre": 13,
+            "sodium": 6
+        },
+        "tags": ["grain", "carb"]
+    },
+    {
+        "id": "coles_rolled_oats_wholegrain",
+        "name": "Wholegrain Rolled Oats",
+        "nutrition_per_100g": {
+            "energy": 1680,
+            "protein": 13.3,
+            "fat": 9.8,
+            "saturated_fat": 1.7,
+            "carbohydrate": 60.3,
+            "sugars": 1.2,
+            "dietary_fibre": 0.0086,
+            "sodium": 7,
+            "potassium": 313
+        },
+        "tags": ["grain", "carb"]
+    },
+    {
+        "id": "sanitarium_almond_milk",
+        "name": "Almond Milk",
+        "nutrition_per_100g": {
+            "energy": 130,
+            "protein": 0.5,
+            "fat": 1.2,
+            "saturated_fat": 0.1,
+            "trans_fat": 0,
+            "polyunsaturated_fat": 0.3,
+            "monounsaturated_fat": 0.8,
+            "carbohydrate": 4.6,
+            "sugars": 4.4,
+            "dietary_fibre": 0.3,
+            "sodium": 35,
+            "potassium": 15,
+            "calcium": 75,
+            "vitamin_e": 0.4
+        },
+        "tags": ["snack"]
+    },
+    {
+        "id": "coles_soy_milk_regular",
+        "name": "Soy Milk",
+        "nutrition_per_100g": {
+            "energy": 244,
+            "protein": 3.1,
+            "fat": 3.0,
+            "saturated_fat": 0.2,
+            "trans_fat": 0.2,
+            "polyunsaturated_fat": 1,
+            "monounsaturated_fat": 1.8,
+            "carbohydrate": 4.7,
+            "sugars": 1.6,
+            "dietary_fibre": 0,
+            "sodium": 47
+        },
+        "tags": ["snack"]
+    },
+    {
+        "id": "simply_better_organic_tofu_plain_firm",
+        "name": "Firm Tofu",
+        "nutrition_per_100g": {
+            "energy": 615,
+            "protein": 15.9,
+            "fat": 8.8,
+            "saturated_fat": 2.7,
+            "trans_fat": 0.1,
+            "polyunsaturated_fat": 6.9,
+            "monounsaturated_fat": 3.0,
+            "carbohydrate": 0.3,
+            "sugars": 0.3,
+            "sodium": 17
+        }
+    },
+    {
+        "id": "sss_hummus_dip",
+        "name": "Hummus",
+        "nutrition_per_100g": {
+            "energy": 709,
+            "protein": 8.4,
+            "fat": 10.8,
+            "saturated_fat": 1.8,
+            "dietary_fibre": 11,
+            "carbohydrate": 4.6,
+            "sugars": 0.6,
+            "sodium": 378
+        },
+        "tags": ["legume", "snack"]
+    },
+    {
+        "id": "coles_hummus_lite",
+        "name": "Hummus (Lite)",
+        "nutrition_per_100g": {
+            "energy": 696,
+            "protein": 5.0,
+            "fat": 9.3,
+            "saturated_fat": 1.0,
+            "carbohydrate": 15.7,
+            "sugars": 0.6,
+            "sodium": 354
+        },
+        "tags": ["legume", "snack"]
+    },
+    {
+        "id": "coles_hummus",
+        "name": "Hummus",
+        "nutrition_per_100g": {
+            "energy": 1091,
+            "protein": 5.6,
+            "fat": 19.2,
+            "saturated_fat": 2,
+            "carbohydrate": 16.8,
+            "sugars": 0.6,
+            "sodium": 347
+        },
+        "tags": ["legume", "snack"]
+    },
+    {
+        "id": "sanitarium_natural_peanut_butter_crunchy",
+        "name": "Peanut Butter",
+        "nutrition_per_100g": {
+            "energy": 2580,
+            "protein": 28,
+            "fat": 50,
+            "saturated_fat": 6,
+            "trans_fat": 0,
+            "polyunsaturated_fat": 5,
+            "monounsaturated_fat": 39,
+            "carbohydrate": 12,
+            "sugars": 5.0,
+            "dietary_fibre": 6,
+            "sodium": 8,
+            "potassium": 700,
+            "vitamin_b3": 12,
+            "magnesium": 150
+        },
+        "tags": ["snack", "nut"]
+    },
+    {
+        "id": "macro_organic_peanut_butter_crunchy",
+        "name": "Peanut Butter",
+        "nutrition_per_100g": {
+            "energy": 2670,
+            "protein": 28.4,
+            "fat": 50.9,
+            "saturated_fat": 10.2,
+            "trans_fat": 0.1,
+            "polyunsaturated_fat": 15.9,
+            "monounsaturated_fat": 22.7,
+            "carbohydrate": 18,
+            "sugars": 5.5,
+            "sodium": 1
+        },
+        "tags": ["snack", "nut"]
+    },
+    {
+        "id": "macro_organic_tahini_unhulled",
+        "name": "Tahini",
+        "nutrition_per_100g": {
+            "energy": 2760,
+            "protein": 25.6,
+            "fat": 57.3,
+            "saturated_fat": 8.3,
+            "trans_fat": 0.1,
+            "polyunsaturated_fat": 23.8,
+            "monounsaturated_fat": 22.9,
+            "carbohydrate": 12,
+            "sugars": 1,
+            "sodium": 7
+        },
+        "tags": ["seed"]
+    },
+    {
+        "id": "coles_butter_beans_organic",
+        "name": "Butter Beans",
+        "nutrition_per_100g": {
+            "energy": 384,
+            "protein": 7.4,
+            "fat": 0.9,
+            "saturated_fat": 0.9,
+            "carbohydrate": 15.2,
+            "sugars": 0.9,
+            "dietary_fibre": 7,
+            "sodium": 300
+        },
+        "tags": ["legume"]
+    },
+    {
+        "id": "coles_red_kidney_beans_organic",
+        "name": "Kidney Beans",
+        "nutrition_per_100g": {
+            "energy": 370,
+            "protein": 5.2,
+            "fat": 0.4,
+            "saturated_fat": 0.3,
+            "carbohydrate": 16.1,
+            "sugars": 0.7,
+            "dietary_fibre": 7.3,
+            "sodium": 268
+        },
+        "tags": ["legume"]
+    },
+    {
+        "id": "coles_chick_peas_organic",
+        "name": "Chickpeas",
+        "nutrition_per_100g": {
+            "energy": 391,
+            "protein": 8,
+            "fat": 0.5,
+            "saturated_fat": 0.5,
+            "carbohydrate": 15,
+            "sugars": 1.2,
+            "dietary_fibre": 7,
+            "sodium": 295
+        },
+        "tags": ["legume"]
+    },
+    {
+        "id": "coles_lentils",
+        "name": "Lentils",
+        "nutrition_per_100g": {
+            "energy": 290,
+            "protein": 4.2,
+            "fat": 0.9,
+            "saturated_fat": 0.1,
+            "carbohydrate": 11.3,
+            "sugars": 0.9,
+            "dietary_fibre": 2.8,
+            "sodium": 293
+        },
+        "tags": ["legume"]
+    },
+    {
+        "id": "edgell_cannellini_beans",
+        "name": "Cannellini Beans",
+        "nutrition_per_100g": {
+            "energy": 438,
+            "protein": 7.4,
+            "fat": 0.8,
+            "saturated_fat": 0.1,
+            "carbohydrate": 14,
+            "sugars": 1,
+            "dietary_fibre": 5.6,
+            "sodium": 298
+        },
+        "tags": ["legume"]
+    },
+    {
+        "id": "fruit_kiwifruit_fresh_raw",
+        "name": "Kiwifruit",
+        "nutrition_per_100g": {
+            "energy": 61,
+            "carbohydrate": 14.66,
+            "sugars": 8.99,
+            "dietary_fibre": 3.0,
+            "fat": 0.52,
+            "protein": 1.14
+        },
+        "tags": ["fruit"]
+    },
+    {
+        "id": "fruit_apple_granny_smith_fresh_raw",
+        "name": "Apple (Granny Smith)",
+        "nutrition_per_100g": {
+            "energy": 218,
+            "carbohydrate": 13.81,
+            "sugars": 10.39,
+            "dietary_fibre": 2.4,
+            "fat": 0.17,
+            "protein": 0.26,
+            "vitamin_b1": 0.017,
+            "vitamin_b2": 0.026,
+            "vitamin_b3": 0.091,
+            "vitamin_b5": 0.061,
+            "vitamin_b6": 0.041,
+            "vitamin_b9": 0.003,
+            "vitamin_c": 4.6,
+            "calcium": 6,
+            "iron": 0.12,
+            "magnesium": 5,
+            "phosphorus": 11,
+            "potassium": 107,
+            "zinc": 0.04
+        },
+        "tags": ["fruit"]
+    },
+    {
+        "id": "fruit_apple_pink_lady_fresh_raw",
+        "name": "Apple (Pink Lady)",
+        "nutrition_per_100g": {
+            "energy": 218,
+            "carbohydrate": 13.81,
+            "sugars": 10.39,
+            "dietary_fibre": 2.4,
+            "fat": 0.17,
+            "protein": 0.26
+        },
+        "tags": ["fruit"]
+    },
+    {
+        "id": "fruit_banana_fresh_raw",
+        "name": "Banana",
+        "nutrition_per_100g": {
+            "energy": 371,
+            "carbohydrate": 22.84,
+            "sugars": 12.23,
+            "dietary_fibre": 2.6,
+            "fat": 0.33,
+            "protein": 1.09,
+            "vitamin_b6": 0.4,
+            "vitamin_c": 8.7,
+            "manganese": 0.3
+        },
+        "tags": ["fruit"]
+    },
+    {
+        "id": "fruit_orange_navel_fresh_raw",
+        "name": "Navel Orange",
+        "nutrition_per_100g": {
+            "energy": 192,
+            "carbohydrate": 11.75,
+            "sugars": 9.35,
+            "dietary_fibre": 2.4,
+            "fat": 0.12,
+            "protein": 0.94,
+            "vitamin_c": 53.2
+        },
+        "tags": ["fruit"]
+    },
+    {
+        "id": "fruit_avocado_fresh",
+        "name": "Avocado",
+        "nutrition_per_100g": {
+            "energy": 670,
+            "carbohydrate": 8.53,
+            "sugars": 0.66,
+            "dietary_fibre": 6.7,
+            "fat": 14.66,
+            "saturated_fat": 2.13,
+            "monounsaturated_fat": 9.8,
+            "polyunsaturated_fat": 1.82,
+            "protein": 2,
+            "vitamin_b2": 0.13,
+            "vitamin_b3": 1.738,
+            "vitamin_b5": 1.389,
+            "vitamin_b6": 0.257,
+            "vitamin_b9": 0.081,
+            "vitamin_c": 10,
+            "vitamin_e": 2.07,
+            "vitamin_k": 21,
+            "potassium": 485
+        },
+        "tags": ["vegetable", "superfood"]
+    },
+    {
+        "id": "veg_broccoli_fresh",
+        "name": "Broccoli",
+        "nutrition_per_100g": {
+            "energy": 141,
+            "carbohydrate": 6.64,
+            "sugars": 1.7,
+            "dietary_fibre": 2.6,
+            "fat": 0.37,
+            "protein": 2.82,
+            "vitamin_b1": 0.071,
+            "vitamin_b5": 0.573,
+            "vitamin_b6": 0.175,
+            "vitamin_b9": 0.063,
+            "vitamin_c": 89.2,
+            "vitamin_k": 101.6,
+            "manganese": 0.21
+        },
+        "tags": ["vegetable", "leafy green vegetable"]
+    },
+    {
+        "id": "veg_spinach_fresh",
+        "name": "Spinach",
+        "nutrition_per_100g": {
+            "energy": 97,
+            "carbohydrate": 3.6,
+            "sugars": 0.4,
+            "dietary_fibre": 2.2,
+            "fat": 0.4,
+            "protein": 2.9,
+            "vitamin_a": 469,
+            "vitamin_b2": 0.189,
+            "vitamin_b6": 0.195,
+            "vitamin_b9": 0.194,
+            "vitamin_c": 28,
+            "vitamin_e": 2,
+            "vitamin_k": 483,
+            "calcium": 99,
+            "iron": 2.7,
+            "magnesium": 79,
+            "manganese": 0.897,
+            "potassium": 558
+        },
+        "tags": ["vegetable", "leafy green vegetable", "superfood"]
+    },
+    {
+        "id": "veg_baby_spinach_leaves_fresh",
+        "name": "Baby Spinach",
+        "nutrition_per_100g": {
+            "energy": 97,
+            "carbohydrate": 3.6,
+            "sugars": 0.4,
+            "dietary_fibre": 2.2,
+            "fat": 0.4,
+            "protein": 2.9,
+            "vitamin_a": 469,
+            "vitamin_b2": 0.189,
+            "vitamin_b6": 0.195,
+            "vitamin_b9": 0.194,
+            "vitamin_c": 28,
+            "vitamin_e": 2,
+            "vitamin_k": 483,
+            "calcium": 99,
+            "iron": 2.7,
+            "magnesium": 79,
+            "manganese": 0.897,
+            "potassium": 558
+        },
+        "tags": ["vegetable", "leafy green vegetable"]
+    },
+    {
+        "id": "veg_bok_choy_fresh",
+        "name": "Bok Choy",
+        "nutrition_per_100g": {
+            "energy": 54,
+            "carbohydrate": 2.2,
+            "dietary_fibre": 1,
+            "fat": 0.2,
+            "protein": 1.5,
+            "vitamin_a": 243,
+            "vitamin_c": 45,
+            "calcium": 105
+        },
+        "tags": ["vegetable", "leafy green vegetable"]
+    },
+    {
+        "id": "veg_brussels_sprout_raw",
+        "name": "Brussels Sprouts",
+        "nutrition_per_100g": {
+            "energy": 179,
+            "carbohydrate": 8.95,
+            "sugars": 2.2,
+            "dietary_fibre": 3.8,
+            "fat": 0.3,
+            "protein": 3.38,
+            "vitamin_b1": 0.139,
+            "vitamin_b6": 0.219,
+            "vitamin_c": 85,
+            "vitamin_k": 177,
+            "iron": 1.4,
+            "manganese": 0.337,
+            "phosphorus": 69
+        },
+        "tags": ["vegetable", "leafy green vegetable"]
+    },
+    {
+        "id": "veg_sweet_potato_fresh",
+        "name": "Sweet Potato",
+        "nutrition_per_100g": {
+            "energy": 359,
+            "carbohydrate": 20.1,
+            "sugars": 4.2,
+            "starch": 12.7,
+            "dietary_fibre": 3,
+            "fat": 0.1,
+            "protein": 1.6,
+            "vitamin_a": 709,
+            "vitamin_b5": 0.8,
+            "vitamin_b6": 0.209,
+            "manganese": 0.258
+        },
+        "tags": ["vegetable", "superfood"]
+    },
+    {
+        "id": "veg_eggplant_fresh",
+        "name": "Eggplant",
+        "nutrition_per_100g": {
+            "energy": 104,
+            "carbohydrate": 5.88,
+            "sugars": 3.53,
+            "dietary_fibre": 3,
+            "fat": 0.18,
+            "protein": 0.98,
+            "manganese": 0.232
+        },
+        "tags": ["vegetable"]
+    },
+    {
+        "id": "veg_mushrooms_cup_fresh",
+        "name": "Cup Mushrooms",
+        "nutrition_per_100g": {
+            "energy": 113,
+            "carbohydrate": 4.1,
+            "fat": 0.1,
+            "protein": 2.5,
+            "vitamin_b2": 0.5,
+            "vitamin_b3": 3.8,
+            "vitamin_b5": 1.5,
+            "phosphorus": 120,
+            "potassium": 448,
+            "zinc": 1.1
+        },
+        "tags": ["vegetable"]
+    },
+    {
+        "id": "veg_cucumber_continental_fresh",
+        "name": "Cucumber",
+        "nutrition_per_100g": {
+            "energy": 65,
+            "carbohydrate": 3.63,
+            "sugars": 1.67,
+            "dietary_fibre": 0.5,
+            "fat": 0.11,
+            "protein": 0.65,
+            "vitamin_k": 16.4
+        },
+        "tags": ["vegetable"]
+    },
+    {
+        "id": "veg_capsicum_red_fresh",
+        "name": "Red Capcicum",
+        "nutrition_per_100g": {
+            "energy": 84,
+            "carbohydrate": 4.64,
+            "sugars": 2.4,
+            "dietary_fibre": 1.7,
+            "fat": 0.17,
+            "protein": 0.86,
+            "vitamin_b6": 0.224,
+            "vitamin_c": 80.4
+        },
+        "tags": ["vegetable"]
+    },
+    {
+        "id": "coles_dried_apricots",
+        "name": "Dried Apricots",
+        "nutrition_per_100g": {
+            "energy": 1130,
+            "protein": 2.8,
+            "fat": 1.0,
+            "saturated_fat": 0.2,
+            "carbohydrate": 58.2,
+            "sugars": 45,
+            "dietary_fibre": 7.5,
+            "sodium": 0.35
+        },
+        "tags": ["fruit"]
+    },
+    {
+        "id": "coles_almonds_natural",
+        "name": "Almonds",
+        "nutrition_per_100g": {
+            "energy": 2575,
+            "protein": 24.1,
+            "fat": 53.5,
+            "saturated_fat": 3.1,
+            "trans_fat": 0.1,
+            "polyunsaturated_fat": 12.3,
+            "monounsaturated_fat": 38.1,
+            "carbohydrate": 6.2,
+            "sugars": 3.4,
+            "dietary_fibre": 10,
+            "sodium": 4.5,
+            "vitamin_e": 26.7
+        },
+        "tags": ["nut", "superfood"]
+    },
+    {
+        "id": "coles_walnuts_natural_californian",
+        "name": "Walnuts",
+        "nutrition_per_100g": {
+            "energy": 2938,
+            "protein": 15.9,
+            "fat": 69.2,
+            "saturated_fat": 7.4,
+            "trans_fat": 0.1,
+            "polyunsaturated_fat": 52.2,
+            "monounsaturated_fat": 9.5,
+            "carbohydrate": 4.3,
+            "sugars": 2.6,
+            "sodium": 0.8,
+            "magnesium": 180
+        },
+        "tags": ["nut"]
+    },
+    {
+        "id": "coles_cashews_salted",
+        "name": "Cashews",
+        "nutrition_per_100g": {
+            "energy": 2530,
+            "protein": 19.6,
+            "fat": 48.8,
+            "saturated_fat": 9,
+            "carbohydrate": 20,
+            "sugars": 6.7,
+            "sodium": 300
+        },
+        "tags": ["nut"]
+    },
+    {
+        "id": "coles_flaxseed",
+        "name": "Flaxseed",
+        "nutrition_per_100g": {
+            "energy": 1900,
+            "protein": 18,
+            "fat": 34,
+            "saturated_fat": 3.2,
+            "omega_3_fatty_acid": 20.2,
+            "carbohydrate": 20,
+            "sugars": 2.0,
+            "dietary_fibre": 27.3,
+            "sodium": 66
+        },
+        "tags": ["seed"]
+    },
+    {
+        "id": "seed_pumpkin_dried",
+        "name": "Pumpkin Seeds",
+        "nutrition_per_100g": {
+            "energy": 721,
+            "protein": 30.23,
+            "fat": 49.05,
+            "saturated_fat": 8.659,
+            "monounsaturated_fat": 16.242,
+            "polyunsaturated_fat": 20.976,
+            "carbohydrate": 10.71,
+            "dietary_fibre": 6,
+            "sugars": 1.40,
+            "calcium": 46,
+            "iron": 8.82,
+            "magnesium": 592,
+            "phosphorus": 1233,
+            "potassium": 809,
+            "sodium": 7,
+            "zinc": 7.81
+        },
+        "tags": ["seed"]
+    },
+    {
+        "id": "mission_wraps_wholegrain",
+        "name": "Wholegrain Wraps",
+        "nutrition_per_100g": {
+            "energy": 1330,
+            "protein": 8.5,
+            "fat": 9.4,
+            "saturated_fat": 4.5,
+            "trans_fat": 0.1,
+            "polyunsaturated_fat": 1.4,
+            "monounsaturated_fat": 3.5,
+            "carbohydrate": 46.9,
+            "sugars": 5.2,
+            "dietary_fibre": 4.6,
+            "sodium": 960
+        },
+        "tags": ["carb", "bread"]
+    },
+    {
+        "id": "sanremo_wholegrain_pasta",
+        "name": "Wholegrain Pasta",
+        "nutrition_per_100g": {
+            "energy": 1390,
+            "protein": 13,
+            "fat": 2.5,
+            "saturated_fat": 1.2,
+            "carbohydrate": 57,
+            "sugars": 1.8,
+            "dietary_fibre": 13,
+            "sodium": 30
+        },
+        "tags": ["carb", "bread"]
+    },
+    {
+        "id": "sunrice_brown_rice_uncooked",
+        "name": "Brown Rice",
+        "nutrition_per_100g": {
+            "energy": 1490,
+            "protein": 7.6,
+            "fat": 2.6,
+            "saturated_fat": 0.6,
+            "polyunsaturated_fat": 1,
+            "monounsaturated_fat": 1,
+            "carbohydrate": 72.5,
+            "sugars": 1,
+            "dietary_fibre": 3.9,
+            "sodium": 5,
+            "potassium": 266,
+            "vitamin_b1": 0.4,
+            "vitamin_b3": 6.4,
+            "magnesium": 111
+        },
+        "tags": ["carb", "grain"]
+    },
+    {
+        "id": "pureharvest_organic_rice_cakes",
+        "name": "Rice Cakes",
+        "nutrition_per_100g": {
+            "energy": 1620,
+            "protein": 7.9,
+            "fat": 3.2,
+            "saturated_fat": 0.9,
+            "trans_fat": 0,
+            "polyunsaturated_fat": 1.1,
+            "monounsaturated_fat": 1.2,
+            "carbohydrate": 79.1,
+            "sugars": 0.5,
+            "dietary_fibre": 3.1,
+            "sodium": 222,
+            "calcium": 13
+        },
+        "tags": ["carb", "snack"]
+    },
+    {
+        "id": "arnotts_vita_wheat_rice_crackers_multigrain",
+        "name": "Rice Crackers",
+        "nutrition_per_100g": {
+            "energy": 1960,
+            "protein": 8.8,
+            "fat": 12.8,
+            "saturated_fat": 1.7,
+            "trans_fat": 0.3,
+            "carbohydrate": 77,
+            "sugars": 0.6,
+            "dietary_fibre": 3
+        },
+        "tags": ["carb", "snack"]
+    },
+    {
+        "id": "supl_protein_pea_rice_mix",
+        "name": "Rice+Pea Protein Powder",
+        "nutrition_per_100g": {
+            "energy": 1490.5,
+            "protein": 81.65,
+            "carbohydrate": 3.8,
+            "fat": 1.05 
+        },
+        "tags": ["supplement"]
+    },
+    {
+        "id": "sweet_william_choc_original",
+        "name": "Sweet William Chocolate",
+        "nutrition_per_100g": {
+            "energy": 2160,
+            "protein": 7.9,
+            "fat": 31,
+            "saturated_fat": 16.1,
+            "trans_fat": 0,
+            "polyunsaturated_fat": 3.3,
+            "monounsaturated_fat": 9.9,
+            "carbohydrate": 55.8,
+            "sugars": 42.4,
+            "dietary_fibre": 6,
+            "sodium": 5.4
+        },
+        "tags": ["snack", "carb"]
+    },
+    {
+        "id": "red_rock_chips_chilli_salt",
+        "name": "Chips (Chilli & Sea Salt)",
+        "nutrition_per_100g": {
+            "energy": 2050,
+            "protein": 7.9,
+            "fat": 23.4,
+            "saturated_fat": 3.2,
+            "trans_fat": 0.1,
+            "polyunsaturated_fat": 1.7,
+            "monounsaturated_fat": 18.4,
+            "carbohydrate": 62,
+            "sugars": 2.4,
+            "dietary_fibre": 4,
+            "sodium": 579,
+            "potassium": 1220
+        },
+        "tags": ["snack", "carb"]
+    }
+]
